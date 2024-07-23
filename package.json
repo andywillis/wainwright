@@ -1,10 +1,11 @@
 {
   "name": "wainwright",
   "publisher": "andywillis",
-  "displayName": "wainwright",
-  "description": "Dark green theme",
-  "version": "0.0.3",
+  "displayName": "Wainwright",
+  "description": "Dark verdant VSCode theme",
+  "version": "0.0.5",
   "license": "MIT",
+  "icon": "icon/W.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/andywillis/wainwright"
