@@ -1,0 +1,33 @@
+{
+  "name": "wainwright",
+  "publisher": "andywillis",
+  "displayName": "wainwright",
+  "description": "Dark green theme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andywillis/wainwright"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wainwright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wainwright-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "2.31.1"
+  }
+}
