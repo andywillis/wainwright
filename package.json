@@ -3,7 +3,8 @@
   "publisher": "andywillis",
   "displayName": "wainwright",
   "description": "Dark green theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/andywillis/wainwright"
